@@ -2,6 +2,14 @@
 
 ## Overview
 
-This repository contains contents of 40 days coding, which is a mini-series from AIO 2024 Course from AI Viet Nam. 
+This repository contains exercises and answers of 40 days coding, which is a mini-series from AIO 2024 Course from AI Viet Nam.
 
-There are pdf file and doing parts in each day. 
+In each day, there are a pdf/ image files of contents and a Jupyter Notebook or results of that day. 
+
+A lot of thanks for Dr.Quang-Dinh Vinh and his team for creating this series.
+
+## Outline: 
+
+- Day 37: Learn how to execute easy PDF file with Pypdf (Finished)
+
+ 
