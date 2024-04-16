@@ -10,6 +10,21 @@ A lot of thanks for Dr. Quang-Dinh Vinh and his team for creating this series.
 
 ## Outline: 
 
+- Day 1: Using If-Else to calculate Can Chi (Lunar Year). (Finished)
+- Day 2: Install Anaconda and VS Code (Finished). 
+- Day 3: Using If-Else to solve quadratic equations. (Finished)
+- Day 4: Use String functions to handle text pre-processing. (Finished) 
+- Day 5: List basic functions, list with for loop. (Finished)
+- Day 6: Learn how to use switch/case. (Finished)
+- Day 7: Learn how to delete, add, change list. (Finished)
+- Day 8: Learn how to use enumerate function. (Finished)
+- Day 9: List with median and sort. (Finished)
+- Day 10: Start working with List in Numpy and Tensor in Pytorch and Tensorflow. (Finished)
+- Day 11: Use list to create BoW (Bag-of-Words) vector. (Finished)
+- Day 12: Create matrix with ones, zeros and full/fill. (Finished)
+- Day 13: Search with list. (Finished)
+- Day 14:
+
 - Day 30: Learn how to execute and publish package with Poetry. (Finished)
 - Day 31: Get familiar with PygWalker library to analyze data. (Finished)
 - Day 32 + 33: Exercises with Basic Python. (Finished)
